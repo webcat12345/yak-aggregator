@@ -1,6 +1,3 @@
-# [<img align="left" alt="Java" width="50px" src="https://github.com/yieldyak/brand-assets/blob/d6414e7e63a7e83b3d42376822a91f516cf325c4/y/y_400x400.png?raw=true" />](https://yieldyak.com/swap) YakSwap 
-Dex aggregator for EVM chains. UI available [here](https://yieldyak.com/swap). 
-
 ## About
 
 YakSwap is a set of smart contracts for optimal path finding between two assets and execution of that path. For input&output token and input-amount optimal path should have a greatest net amount-out by considering execution gas-cost.
@@ -182,14 +179,6 @@ npx hardhat find-best-path 1000 USDC yyAVAX  --network avalanche
 
 * Static-Quoters used in KyberElastic, UniswapV3 and Quickswap adapters are published [here](https://github.com/eden-network/uniswap-v3-static-quoter).
 
-## Audits and Security
-
-This project is not audited. Use at your own risk.
-For any questions or bug reports reach out via Telegram group [YakDevs](https://t.me/yakdevs) or its admins.
-
----
-
-
 
 Project is licensed under GPL-3, although some parts of it might be less restrictive.
-Copyright© 2021 Yield Yak
+Copyright© 2021
